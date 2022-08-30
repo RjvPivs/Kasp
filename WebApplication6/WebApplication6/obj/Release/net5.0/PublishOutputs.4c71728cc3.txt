@@ -1,0 +1,11 @@
+C:\Users\Pivs\Desktop\WebApplication6\WebApplication6\obj\Release\net5.0\PubTmp\Out\WebApplication6.exe
+C:\Users\Pivs\Desktop\WebApplication6\WebApplication6\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Pivs\Desktop\WebApplication6\WebApplication6\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\Pivs\Desktop\WebApplication6\WebApplication6\obj\Release\net5.0\PubTmp\Out\WebApplication6.dll
+C:\Users\Pivs\Desktop\WebApplication6\WebApplication6\obj\Release\net5.0\PubTmp\Out\WebApplication6.deps.json
+C:\Users\Pivs\Desktop\WebApplication6\WebApplication6\obj\Release\net5.0\PubTmp\Out\WebApplication6.runtimeconfig.json
+C:\Users\Pivs\Desktop\WebApplication6\WebApplication6\obj\Release\net5.0\PubTmp\Out\WebApplication6.pdb
+C:\Users\Pivs\Desktop\WebApplication6\WebApplication6\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Pivs\Desktop\WebApplication6\WebApplication6\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pivs\Desktop\WebApplication6\WebApplication6\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pivs\Desktop\WebApplication6\WebApplication6\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
