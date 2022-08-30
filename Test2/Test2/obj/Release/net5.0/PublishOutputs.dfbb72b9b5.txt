@@ -1,0 +1,5 @@
+C:\Users\Pivs\Desktop\Test2\Test2\bin\Release\Test2.exe
+C:\Users\Pivs\Desktop\Test2\Test2\bin\Release\Test2.dll
+C:\Users\Pivs\Desktop\Test2\Test2\bin\Release\Test2.deps.json
+C:\Users\Pivs\Desktop\Test2\Test2\bin\Release\Test2.runtimeconfig.json
+C:\Users\Pivs\Desktop\Test2\Test2\bin\Release\Test2.pdb

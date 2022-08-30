@@ -1,0 +1,16 @@
+C:\Users\Pivs\Desktop\Test2\Test2\bin\Release\net5.0\Test2.exe
+C:\Users\Pivs\Desktop\Test2\Test2\bin\Release\net5.0\Test2.deps.json
+C:\Users\Pivs\Desktop\Test2\Test2\bin\Release\net5.0\Test2.runtimeconfig.json
+C:\Users\Pivs\Desktop\Test2\Test2\bin\Release\net5.0\Test2.runtimeconfig.dev.json
+C:\Users\Pivs\Desktop\Test2\Test2\bin\Release\net5.0\Test2.dll
+C:\Users\Pivs\Desktop\Test2\Test2\bin\Release\net5.0\ref\Test2.dll
+C:\Users\Pivs\Desktop\Test2\Test2\bin\Release\net5.0\Test2.pdb
+C:\Users\Pivs\Desktop\Test2\Test2\obj\Release\net5.0\Test2.csproj.AssemblyReference.cache
+C:\Users\Pivs\Desktop\Test2\Test2\obj\Release\net5.0\Test2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pivs\Desktop\Test2\Test2\obj\Release\net5.0\Test2.AssemblyInfoInputs.cache
+C:\Users\Pivs\Desktop\Test2\Test2\obj\Release\net5.0\Test2.AssemblyInfo.cs
+C:\Users\Pivs\Desktop\Test2\Test2\obj\Release\net5.0\Test2.csproj.CoreCompileInputs.cache
+C:\Users\Pivs\Desktop\Test2\Test2\obj\Release\net5.0\Test2.dll
+C:\Users\Pivs\Desktop\Test2\Test2\obj\Release\net5.0\ref\Test2.dll
+C:\Users\Pivs\Desktop\Test2\Test2\obj\Release\net5.0\Test2.pdb
+C:\Users\Pivs\Desktop\Test2\Test2\obj\Release\net5.0\Test2.genruntimeconfig.cache
